@@ -7,6 +7,7 @@ pipeline {
                 sh 'echo using shell within Jenkinsfile'
                 echo 'not using shell within Jenkinsfile'
                 echo 'Hello World'
+                echo 'new added'
 
             }
         }        
